@@ -1,2 +1,2 @@
 # app-cisuM-elppA
-Official cisuM-elppA app for PureHarmony
+Official cisuM-elppA app for Oniro and AOSP
